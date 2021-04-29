@@ -1,3 +1,9 @@
 void main(){
 printf("hello world");
+
+printf("YES!!!YESS!!\n");
+printf("YES!!!YESS!!\n");
+printf("YES!!!YESS!!\n");
+printf("YES!!!YESS!!\n");
+printf("YES!!!YESS!!\n");
 }
